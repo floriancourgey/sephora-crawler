@@ -3,6 +3,7 @@
 ## Usage
 Requires Python 3.x
 ```bash
+$ pip3 install -r requirements.txt
 $ ./main.py givenchy
 Brand name: Givenchy
 Brand URL: https://www.sephora.com/brand/givenchy
